@@ -1,0 +1,9 @@
+---
+Nome: Tamer Issa Ubaid
+RA: 823119535
+Curso: Engenharia de Software
+Semestre: 7º
+Bairro: Vila Maria
+Se trabalha: Trabalho
+Objetivo: Atuar como Desenvolvedor
+---
